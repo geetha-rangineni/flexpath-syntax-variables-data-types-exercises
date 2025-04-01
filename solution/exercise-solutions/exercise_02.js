@@ -11,8 +11,8 @@ function exercise_02() {
 
   // CODE IN THE OPEN LINES BELOW
 
-  let myAge = 30;
-  const myName = "Christian";
+  let myAge = 40;
+  const myName = "Madeline";
   console.log("My Name is", myName, "and my age is", myAge);
 
   // CODE IN THE OPEN LINES ABOVE
